@@ -1,7 +1,1 @@
--  Hi, I’m @IMBOBTHECODER
--  I’m interested in coding so I start learning programming
--  I’m currently learning Python
-<!---
-IMBOBTHECODER/IMBOBTHECODER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, my identity is @IMBOBTHECODER, as the name refers to, I love coding, so that's the inspiration that hooked me so well. I have already learned Lua, Python, HTML, CSS, Javascript, and MySql. And I'm willing to get feedback and comments from the community!
