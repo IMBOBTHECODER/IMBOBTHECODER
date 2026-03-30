@@ -1,2 +1,5 @@
 # im gonna explode
-coding is very special 😜, it's like a roulette gun. sometimes ur adhd ahh brain gonna get a burst of dopamine, sometimes you gonna rethink ur life decision. even though i've been programming for quite some time, i don't have much intent in computer science later on since the average CS uni student is probably gonna become a femboy dancing to tiktok music in the future. oh btw, **im bob**, and i like to code weird shit js for the fun of it.
+coding has always been special to me (not syaing in a good way tho). It's like a roulette gun (this is such a bad example). Sometimes it's pretty fun, and that little brain of mine will spark up with dopamine. But in return, sometimes it can be really frustrating not getting your code right. Oh, forgot, im **bob**, that's my English nickname but **Tien Dat** should be fine. and ofc i like coding weird shit i found on the internet cuz why not =D.
+
+# Things i've done
+nothing, yes... so I did a lot of projects but they all flopped, so right now i have no projects.
