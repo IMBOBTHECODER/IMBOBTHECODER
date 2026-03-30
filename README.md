@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-blue?style=flat)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_NAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # im gonna explode
 coding has always been special to me (not syaing in a good way tho). It's like a roulette gun (this is such a bad example). Sometimes it's pretty fun, and that little brain of mine will spark up with dopamine. But in return, sometimes it can be really frustrating not getting your code right. Oh, forgot, im **bob**, that's my English nickname but **Tien Dat** should be fine. and ofc i like coding weird shit i found on the internet cuz why not =D.
